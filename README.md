@@ -1,5 +1,9 @@
 # data71011-binder
 
+Markdown: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chillinghills/data71011-binder/HEAD)
+
+ReStructured Text: .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/chillinghills/data71011-binder/HEAD
 
 # STEMM Role Models App
 
